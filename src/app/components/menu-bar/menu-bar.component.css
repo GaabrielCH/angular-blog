@@ -3,6 +3,7 @@
 .container__menu-bar > ul{
   display: flex;
   flex-direction: row;
+  font-family: 'Roboto', sans-serif;
 }
 
 .container__menu-bar > ul > li{
